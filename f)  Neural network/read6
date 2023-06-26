@@ -1,0 +1,5 @@
+considered small networks
+
+and consider it as levels which consists of floor,ceiling,connections
+First-layer neurons are connected to sensors and will send signals forward several times, while the final layer
+is connected to the car's controls to make it actually function or do something.
