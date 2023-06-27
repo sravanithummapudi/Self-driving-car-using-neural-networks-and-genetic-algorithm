@@ -1,0 +1,2 @@
+Here, we define 100 cars close to the primary car, as well as added extra traffic and used mutation.
+Every time the car does better than in prior instances, we save it and re-start the engine until it passes all of the traffic without running into any borders..
